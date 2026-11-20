@@ -16,7 +16,7 @@
   "source": "https://github.com/yomralioglumert/dbx-plugin-kafka",
   "homepage": "https://github.com/yomralioglumert/dbx-plugin-kafka",
   "license": "MIT",
-  "releaseNotes": "Alba review candidate with native Kafka Connect. Upstream contribution: jinpy666/dbx-plugin-kafka#86. Not an official DBX Store release.",
+  "releaseNotes": "Alba Kafka Connect candidate with bounded server-side TLS certificate-file support for existing DBX identities. Upstream contribution: jinpy666/dbx-plugin-kafka#86. Not an official DBX Store release.",
   "localizations": {
     "zh-CN": {
       "name": "Kafka Studio (Alba build)",
